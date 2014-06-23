@@ -1,0 +1,61 @@
+body {
+  font-family: Verdana;
+  font-size: 1.5em;
+  background-image: url("http://i1264.photobucket.com/albums/jj493/wmitchel1/sativa_zps395eb9a9.png");
+                                   /*.blur {webkit-filter: blur(5px)}
+
+/*.blur:hover{webkit-filter: none; /*Returns to default state*/ }
+  body h1 {
+    text-align: center;
+    margin: 20px auto;
+    font-family: "League-Gothic", Courier;
+    font-size: 75px;
+    text-transform: uppercase;
+    color: #707070;
+    text-shadow: 5px 5px 0px #eee, 7px 7px 0px #707070; }
+  body #team-members {
+    clear: both;
+    text-align: center;
+    font-family: "League-Gothic", Courier;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #707070;
+    text-shadow: 5px 5px 0px #eee, 7px 7px 0px #707070; }
+  body #team-members .member {
+    float: left;
+    /*border: 1px solid gray;*/
+    margin: 10px;
+    padding: 6px; }
+  body #team-members .member img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 67px;
+    -webkit-filter: blur(5px); }
+  body #team-members .member img:hover {
+    -webkit-filter: blur(0px); }
+  body #team-members .member div.name {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    text-shadow: none; }
+  body #team-members .member #oprah {
+    margin-left: 175px; }
+  body #intro {
+    background-color: black;
+    border-radius: 20px;
+    margin: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    color: white;
+    text-shadow: none;
+    text-decoration: line-through; }
+  body footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 70px;
+    background-color: white;
+    width: 100%;
+    color: black;
+    text-shadow: none; }
